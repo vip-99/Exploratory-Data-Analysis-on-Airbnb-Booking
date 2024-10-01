@@ -1,13 +1,13 @@
 # Exploratory-Data-Analysis-on-Airbnb-Booking
 
-I have added a brief Analysis of **Airbnb Booking Analysis** using Python(Libraries).
+#### Below hows a brief Analysis of **Airbnb Booking** using Python(Libraries) ⤵️
 
 ![Dashboard Upload](https://raw.githubusercontent.com/vip-99/Exploratory-Data-Analysis-on-Airbnb-Booking/main/download.jpg)
 
 
 
 
-## About Airbnb 
+## About Airbnb ⤵️
 **Company: Airbnb, Inc. (Founded 2008)**
 
 **Founders: Brian Chesky, Nathan Blecharczyk, Joe Gebbia**
@@ -21,19 +21,19 @@ I have added a brief Analysis of **Airbnb Booking Analysis** using Python(Librar
 
 
 
-## Business Context 
+## Business Context ⤵️
 Airbnb has transformed the vacation rental industry, allowing hosts to list properties and guests to find unique accommodations. However, optimizing occupancy, pricing, and customer satisfaction remains challenging for hosts and property managers. This project aims to address these challenges by analyzing Airbnb data for a particular area to extract actionable insights that drive better decision-making and improve overall profitability. The analysis will be focused on understanding patterns, trends, and factors influencing various aspects of the Airbnb marketplace.
 
 
 
 
-## Objective 
+## Objective ⤵️
 The ultimate goal is to empower Airbnb hosts and property managers to optimize their listings by leveraging data-driven insights. The project aims to help them implement dynamic pricing strategies, enhance property offerings, and improve guest satisfaction, thereby gaining a competitive edge in the market.
 
 
 
 
-## Project Summary 
+## Project Summary ⤵️
 **Objective: Analyzing factors influencing Airbnb prices in NYC and identifying key patterns.**
 
 **Data Preparation: Cleaned data by handling missing values, fixing inconsistencies, removing outliers, and ensuring data quality.**
@@ -47,7 +47,7 @@ The ultimate goal is to empower Airbnb hosts and property managers to optimize t
 
 
 
-## Things I Done 
+## Things I Done ⤵️
 
  ### 1 (Basic Dataset Understanding) :
 
@@ -80,7 +80,7 @@ The ultimate goal is to empower Airbnb hosts and property managers to optimize t
 
 
 
-## Conclusion 
+## Conclusion ⤵️
 This Airbnb EDA explored 2019 data to uncover trends in neighborhood popularity, price variations, availability, and room types. We identified areas with the most listings, hosts with the highest bookings, and budget vs. luxury stay options. These insights provide valuable data for hosts, guests, and Airbnb to enhance decision-making and platform satisfaction.
 
 
