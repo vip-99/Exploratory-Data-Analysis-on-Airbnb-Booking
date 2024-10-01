@@ -2,7 +2,7 @@
 
 I have added a brief Analysis of **Airbnb Booking Analysis** using Python(Libraries).
 
-![image](https://github.com/RishikaB-05/Exploratory-Data-Analysis-on-Airbnb-Dataset-/assets/157221360/105b9ec7-a8e4-4a8e-b74c-29051d890164)
+![Dashboard Upload](https://raw.githubusercontent.com/vip-99/Exploratory-Data-Analysis-on-Airbnb-Booking/main/download.jpg)
 
 
 
