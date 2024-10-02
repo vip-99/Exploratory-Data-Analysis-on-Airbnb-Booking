@@ -51,13 +51,10 @@ The ultimate goal is to empower Airbnb hosts and property managers to optimize t
 
  ### 1 (Basic Dataset Understanding) :
 
-**This dataset has around 48,895 observations with 16 columns and it is a mix between categorical and numeric values.**
-
-**Removed Unwanted Columns**
-
-**Cleaned the data to handle missing values and outliers.**
-
-**Once the data has been cleaned and prepared, now begin exploring and summarizing it with describe the data and creating visualizations, and identifying patterns and trends in the data
+1. **This dataset has around 48,895 observations with 16 columns and it is a mix between categorical and numeric values.**
+2. **Removed Unwanted Columns**
+3. **Cleaned the data to handle missing values and outliers.**
+4. **Once the data has been cleaned and prepared, now begin exploring and summarizing it with describe the data and creating visualizations, and identifying patterns and trends in the data
  using the EDA Method.**
 
  
