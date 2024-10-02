@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-on-Airbnb-Booking
 
-#### Below hows a brief Analysis of **Airbnb Booking** using Python(Libraries) ⤵️
+#### Below shows a brief Analysis of **Airbnb Booking** using Python(Libraries) ⤵️
 
 ![Dashboard Upload](https://raw.githubusercontent.com/vip-99/Exploratory-Data-Analysis-on-Airbnb-Booking/main/download.jpg)
 
