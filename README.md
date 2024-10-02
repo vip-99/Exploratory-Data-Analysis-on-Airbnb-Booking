@@ -47,7 +47,7 @@ The ultimate goal is to empower Airbnb hosts and property managers to optimize t
 
 
 
-## Things I Done ⤵️
+## Things I Have Done ⤵️
 
  ### 1 (Basic Dataset Understanding) :
 
